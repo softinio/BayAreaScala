@@ -12,6 +12,7 @@ Calling all Scala developers in the San Francisco Bay Area! Whether you're a sea
 
 ## Our mission is to:
 
+- To be a true community of Scala enthusiasts in the Bay Area run by the community for the community and not run by a company or a corporation and not for profit or commercial purposes. A true user group and book club run by users for users.
 - *Spread the love for Scala:* We're passionate about Scala and its potential, and we want to share that enthusiasm with the Bay Area developer community.
 - *Empower AI development with Scala:* We believe Scala's power and expressiveness make it an ideal language for building next-generation AI applications.
 - *Grow the Scala community:* By providing a platform for learning, collaboration, and innovation, we aim to increase Scala adoption in the region.
