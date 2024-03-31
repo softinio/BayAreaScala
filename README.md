@@ -1,4 +1,4 @@
-![](BayAreaScala.webp)
+![](BayAreaScala.jpeg)
 
 # Join the Bay Area Scala Enthusiasts!
 
@@ -17,7 +17,7 @@ Calling all Scala developers in the San Francisco Bay Area! Whether you're a sea
 - *Grow the Scala community:* By providing a platform for learning, collaboration, and innovation, we aim to increase Scala adoption in the region.
 Join us and be part of the Bay Area's vibrant Scala scene!
 
-## Subscribe here to be informed of our events
+## Subscribe to our [calendar](https://lu.ma/scala) here to be informed of our events
 
 [Register/Subscribe on Lu.ma](https://lu.ma/scala)
 
@@ -25,23 +25,15 @@ Join us and be part of the Bay Area's vibrant Scala scene!
 
 We host events at various locations in the Bay Area, including:
 
-- San Francisco
-- Palo Alto
-- Berkeley
+- **San Francisco**
+- **Palo Alto**
+- **Berkeley**
 
 Check the event details for the specific location.
 
 ## Online events
 
 Occasionally, we host online events or stream our in-person events for those who can't make it to our in-person meetups. Stay tuned for announcements about our upcoming online events!
-
-## Upcoming events:
-
-### Stay tuned for announcements about our upcoming tech talks, book clubs, and hackathons!
-
-<iframe src="https://lu.ma/embed/calendar/cal-0nOd2WfaVO0nIOk/events" width="600" height="450" frameborder="0"
-	style="border: 1px solid #bfcbda88; border-radius: 4px;" allowfullscreen="" aria-hidden="false"
-	tabindex="0"></iframe>
 
 ## Code of Conduct
 
@@ -57,9 +49,9 @@ We will not tolerate harassment of any type, as we are committed to maintaining 
 
 Support us by coming to our events, sharing your knowledge, and spreading the word about the Bay Area Scala Enthusiasts. We look forward to seeing you at our next event!
 
-Support the future of Scala by considering a donation to the [Scala Center](https://scala.epfl.ch/donate.html).
+#### Support the future of Scala by considering a donation to the ❤️ [Scala Center](https://scala.epfl.ch/donate.html) ❤️.
 
-Thank you!
+Thank you! 🙏
 
 ## Contact us
 
